@@ -9,7 +9,11 @@ I'm an undergraduate student at Columbia University interested in software engin
 - Bioinformatics and clinical research software
 
 ## Tech I use
-Python · Java · TypeScript · JavaScript · React · Next.js · FastAPI · Spring Boot · PostgreSQL · Supabase · Tailwind CSS
+Python · Java · TypeScript · JavaScript · React · Next.js · FastAPI · Spring Boot · PostgreSQL · Supabase · Tailwind CSS 
+
+## Reach me
+- LinkedIn: www.linkedin.com/in/bill-gate-ntwali
+- Email: billntwali996@gmail.com
 
   
 
