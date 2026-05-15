@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Bill 👋
 
-<!--
-**billntwali/billntwali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student at Columbia University interested in software engineering, AI, and building tools that solve real problems.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Full-stack web applications
+- FinTech
+- AI-powered developer tools
+- Bioinformatics and clinical research software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+Python · Java · TypeScript · JavaScript · React · Next.js · FastAPI · Spring Boot · PostgreSQL · Supabase · Tailwind CSS
+
+  
+
