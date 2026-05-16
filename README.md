@@ -12,6 +12,7 @@ I'm an undergraduate student at Columbia University interested in software engin
 Python · Java · TypeScript · JavaScript · React · Next.js · FastAPI · Spring Boot · PostgreSQL · Supabase · Tailwind CSS 
 
 ## Reach me
+- Portfolio: https://billgatentwali.com/
 - LinkedIn: www.linkedin.com/in/bill-gate-ntwali
 - Email: billntwali996@gmail.com
 
