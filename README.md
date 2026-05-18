@@ -409,55 +409,61 @@ Computer Science + Biology
 
 ## What I'm Currently Working On
 
-```javascript
-const bill = {
-    school: "Columbia University",
-    major: "Computational Biology",
-    minor: "Statistics",
-    graduation: "May 2028",
-    interests: [
-        "Software Engineering",
-        "AI/ML",
-        "Data Science",
-        "Computational Biology",
-        "FinTech",
-        "Quant/Finance Technology"
-    ],
-    currentlyBuilding: [
-        "MenyaCode - GitHub Repository Analyzer",
-        "SendSmart - Remittance Cost Comparator",
-        "IdeaFinder - Semantic Search Chrome Extension",
-        "Clinical research software at Rockefeller Bioinformatics Group"
-    ],
-    experience: [
-        "Full-stack engineering",
-        "Bioinformatics software",
-        "Clinical data workflows",
-        "AI-powered developer tools",
-        "Fintech platforms",
-        "Research data analysis"
-    ],
-    learning: [
-        "Data Structures and Algorithms",
-        "Backend engineering",
-        "System design",
-        "Databases",
-        "Machine learning applications"
-    ],
-    openTo: [
-        "Software engineering internships",
-        "AI/ML projects",
-        "Data-focused engineering roles",
-        "Computational biology software",
-        "FinTech and quant technology opportunities"
-    ]
-};
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Building
+- **MenyaCode** — GitHub repository analyzer with DFS/BFS traversal and AI file explanations  
+- **SendSmart** — remittance cost comparator for fees, FX rates, payout speed, and savings  
+- **IdeaFinder** — Chrome extension for searching long documents by idea instead of exact keywords  
+- **Clinical research tools** — software workflows for bioinformatics and structured patient data  
+
+</td>
+<td width="50%" valign="top">
+
+### Learning
+- Data Structures & Algorithms  
+- Backend engineering  
+- System design  
+- Databases  
+- Machine learning applications  
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Interests
+- Software Engineering  
+- AI/ML  
+- Data Science  
+- Computational Biology  
+- FinTech  
+- Quant/Finance Technology  
+
+</td>
+<td width="50%" valign="top">
+
+### Open To
+- Software engineering internships  
+- AI/ML projects  
+- Data-focused engineering roles  
+- Computational biology software  
+- FinTech and quant technology opportunities  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Get In Touch
 
-- [Website](https://billgatentwali.com/)
-- [LinkedIn](https://www.linkedin.com/in/bill-gate-ntwali)
-- Email: [billntwali996@gmail.com](mailto:billntwali996@gmail.com)
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-billgatentwali.com-03cb87?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27)](https://billgatentwali.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bill_Gate_Ntwali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://www.linkedin.com/in/bill-gate-ntwali)
+[![Email](https://img.shields.io/badge/Email-billntwali996%40gmail.com-03cb87?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:billntwali996@gmail.com)
+
+</div>
