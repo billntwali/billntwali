@@ -17,7 +17,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/billntwali)
 [![Website](https://img.shields.io/badge/Website-03cb87?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27)](https://billgatentwali.com/)
 
-**Columbia University '28** | B.A. in Computational Biology | Minor in Statistics
+**Columbia University '28** | B.A. in Computational Biology (Computer Science & Biology) | Minor in Statistics
 
 </div>
 
