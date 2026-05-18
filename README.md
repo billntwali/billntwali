@@ -422,7 +422,7 @@ Computer Science + Biology
 </td>
 <td width="50%" valign="top">
 
-### Learning
+### Always Improving
 - Data Structures & Algorithms  
 - Backend engineering  
 - System design  
