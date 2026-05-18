@@ -31,34 +31,6 @@ I like building systems that turn messy real-world problems into structured, use
 
 My interests include software engineering, AI/ML, data science, computational biology, fintech, backend systems, and research-focused engineering.
 
----
-
-## GitHub Activity
-
-<div align="center">
-
-![Contributions](https://img.shields.io/badge/Contributions-309-03cb87?style=for-the-badge&labelColor=1a1b27)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=billntwali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=03cb87&icon_color=667eea&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=billntwali&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=03cb87&fire=f093fb&currStreakLabel=03cb87" alt="GitHub Streak" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billntwali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=03cb87&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=billntwali&theme=tokyonight&utcOffset=-5" alt="Productive Time" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=billntwali&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=03cb87&line=667eea&point=f093fb&area=true&area_color=03cb87" alt="Contribution Graph" width="98%" />
-
-</div>
-
----
-
 ## Experience
 
 <details open>
