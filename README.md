@@ -453,8 +453,6 @@ const bill = {
     ]
 };
 
----
-
 ## Get In Touch
 
 - [Website](https://billgatentwali.com/)
