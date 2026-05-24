@@ -1,8 +1,7 @@
 # <div align="center">Bill Gate Ntwali</div>
 
 <div align="center">
-
-### Computational Biology Student @ Columbia University  
+ 
 ### Software Engineering | AI/ML | Data Science | Computational Biology | FinTech
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Columbia+University+Student;Building+full-stack+tools+with+real-world+impact;Interested+in+SWE%2C+AI%2C+Data%2C+FinTech%2C+and+Computational+Biology" alt="Typing SVG" />
