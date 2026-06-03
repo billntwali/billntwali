@@ -98,7 +98,8 @@ Worked on immunology research studying ILC2s in bone marrow hematopoiesis.
 <tr>
 <td width="50%" valign="top">
 
-### MenyaCode  
+### MenyaCode
+
 **GitHub Repository Analyzer**
 
 <div align="center">
@@ -108,27 +109,30 @@ Worked on immunology research studying ILC2s in bone marrow hematopoiesis.
 
 </div>
 
-A full-stack GitHub repository analyzer that helps users explore, visualize, and understand public codebases.
+MenyaCode helps users understand large GitHub repositories faster. Users can enter a public GitHub repository URL, explore the folder structure visually, and generate simple explanations for individual files instead of manually opening and reading every file.
 
 **Features:**
-- Public GitHub repository analysis
-- DFS/BFS traversal to explore repository structure
-- AI-powered file explanations across 27 file/language types
-- 12K-character analysis caps and 120KB file guardrails
-- Rate-limit and error handling for safer API usage
+
+* Analyze public GitHub repositories from a URL
+* Generate an interactive file tree for easier codebase exploration
+* Visualize DFS and BFS traversal paths through the repository
+* Explain files with AI across 27 file/language types
+* Use 12K-character analysis caps and 120KB file-size guardrails
+* Handle rate limits, missing repositories, large files, and unsupported file types
 
 **Tech Stack:**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square\&logo=openai\&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### SendSmart  
+### SendSmart
+
 **Remittance Cost Comparator**
 
 <div align="center">
@@ -138,29 +142,33 @@ A full-stack GitHub repository analyzer that helps users explore, visualize, and
 
 </div>
 
-A fintech comparison platform that helps users compare remittance providers by cost, speed, payout method, and recipient amount.
+SendSmart helps users compare the real cost of sending money internationally. Instead of only showing transfer fees, it also considers exchange rates, payout methods, delivery speed, and the final amount the recipient receives.
 
 **Features:**
-- Quote comparison across 10–20 transfer corridors
-- Real provider/API data for fees, FX rates, and payout methods
-- Provider ranking and saved searches
-- Alerts and savings calculations
-- 12 REST API endpoints and 6-table PostgreSQL schema
+
+* Compare quotes across 10–20 remittance corridors
+* Use provider/API data for fees, FX rates, payout methods, and speed
+* Rank providers by estimated cost, speed, and recipient amount
+* Save searches for repeated transfer routes
+* Calculate estimated savings across different providers
+* Power quote comparison, provider ranking, saved searches, and savings calculations with 12 REST API endpoints and a 6-table PostgreSQL schema
 
 **Tech Stack:**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### LemonTree Volunteer Platform  
+### LemonTree Volunteer Platform
+
 **Morgan Stanley Code to Give**
 
 <div align="center">
@@ -170,28 +178,30 @@ A fintech comparison platform that helps users compare remittance providers by c
 
 </div>
 
-A full-stack volunteer outreach platform built for LemonTree in a 10-person team.
+LemonTree is a volunteer outreach platform built during Morgan Stanley Code to Give. The platform helps nonprofit organizers create events, manage volunteers, track attendance, and share events through QR-code flyers.
 
 **Features:**
-- Event creation, registration, cancellations, and attendee tracking
-- Real-time volunteer check-in
-- Multi-role authentication
-- Event lifecycle management
-- QR-code flyer generation
-- 16-endpoint REST API and 10-table PostgreSQL schema
+
+* Create, update, and manage volunteer events
+* Support event registration, cancellation, and attendee tracking
+* Enable real-time volunteer check-in during events
+* Provide multi-role authentication for different user types
+* Generate QR-code flyers for easier event sharing
+* Power 8 platform modules with a 16-endpoint REST API and 10-table PostgreSQL schema
 
 **Tech Stack:**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### Chess Forge  
+### Chess Forge
+
 **Point72 Cubist Hackathon**
 
 <div align="center">
@@ -201,29 +211,33 @@ A full-stack volunteer outreach platform built for LemonTree in a 10-person team
 
 </div>
 
-An AI chess platform that generates custom opponents from user prompts with distinct play styles and move narration.
+Chess Forge is an AI-powered chess platform that lets users create custom opponents from natural-language prompts. Instead of playing against one fixed bot, users can describe the type of opponent they want, and the system generates a chess personality with its own playing style and move narration.
 
 **Features:**
-- Custom AI chess opponents from natural-language prompts
-- Distinct play styles and move narration
-- Claude-powered gameplay interactions
-- 5-stage validation pipeline for generated behavior
-- Improved prompt pass rate from 40% to 100% after 6 iterations
+
+* Generate custom chess opponents from natural-language prompts
+* Support distinct play styles such as aggressive, defensive, tactical, or positional
+* Add real-time move narration to make games more interactive
+* Use Claude models for prompt interpretation, gameplay logic, and narration
+* Validate generated behavior with a 5-stage pipeline: syntax, safety, sanity, determinism, and variance
+* Improve prompt pass rate from 40% to 100% through testing and refinement
 
 **Tech Stack:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square)
 ![AI](https://img.shields.io/badge/AI-667eea?style=flat-square)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### IdeaFinder  
+### IdeaFinder
+
 **Semantic Search Chrome Extension**
 
 <div align="center">
@@ -233,25 +247,55 @@ An AI chess platform that generates custom opponents from user prompts with dist
 
 </div>
 
-A Chrome extension that searches long-form web documents by idea or concept instead of exact keyword matches.
+IdeaFinder is a Chrome extension that helps users search long documents by meaning instead of exact words. It is designed for articles, research papers, online books, PDFs, and class readings where users may remember an idea but not the exact phrase.
 
 **Features:**
-- Concept-based search across long-form web documents
-- Text extraction and paragraph chunking
-- BM25 and Fuse.js retrieval pipeline
-- Scroll-linked highlighting
-- Local note and tag storage
+
+* Index 100+ passages per document across HTML pages and PDFs
+* Search by concept using hybrid BM25 and fuzzy ranking
+* Highlight relevant passages directly on the page
+* Jump to matching sections quickly
+* Run selected-text queries and generate AI explanations
+* Save notes and tags locally, with export support for Markdown, JSON, and PDF
 
 **Tech Stack:**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square\&logo=googlechrome\&logoColor=white)
 ![BM25](https://img.shields.io/badge/BM25-Search-667eea?style=flat-square)
 ![Fuse.js](https://img.shields.io/badge/Fuse.js-Fuzzy_Search-f093fb?style=flat-square)
+![Gemini Nano](https://img.shields.io/badge/Gemini_Nano-AI-412991?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
+
+### More Projects Coming Soon
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Coming_Soon-667eea?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Software_Engineering-03cb87?style=flat-square)
+
+</div>
+
+I am continuing to build projects across full-stack development, data systems, AI tools, fintech, and bioinformatics. My current focus is on creating software that is useful, reliable, and easy to understand for real users.
+
+**Areas I am exploring:**
+
+* Backend systems and REST API design
+* Data-heavy full-stack applications
+* AI-assisted developer tools
+* Clinical research software
+* Fintech and comparison platforms
+* Search, ranking, and information retrieval systems
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ### Clinical Research Data Tools  
 **Bioinformatics Software**
